@@ -1,9 +1,25 @@
 # Digital-Humanities
 Digital Humanities knowledge, projects, related information🦊
 
+### Tech related tutorial
+1. TEI encoding
 
-## Tech related paper
+| Title                     | Cite                                                      | summary    |
+| ---- | ------------------------ | ------------------------------------------------------------ | 
+|Encoding Poetry in TEI |  https://www.youtube.com/watch?v=RqRAMvq327U | 
 
+2. Tableau
+
+
+
+| Title                     | Cite                                                      | summary    | 
+| ---- | ------------------------ | ------------------------------------------------------------ | 
+| Text Analysis Tableau | https://www.youtube.com/watch?v=S8O0nYrdzkE | 
+| WORD CLOUD TABLEAU TUTORIAL | https://www.youtube.com/watch?v=xFLVfkJ1AbY | 
+
+### Tech related paper
+| Year | Name                     | Paper                                                        | Codes    | Tech  |
+| ---- | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------ |
 
 
 ### Darwin
