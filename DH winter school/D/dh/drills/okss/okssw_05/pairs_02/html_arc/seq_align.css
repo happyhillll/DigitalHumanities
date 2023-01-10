@@ -1,0 +1,286 @@
+
+body {margin-left: 50px; margin-top: 50px; margin-bottom: 150px;}
+
+.divTable {
+	display: table; 
+	margin-top: 20px; 
+	border-top: 2px solid black;
+	margin-bottom: 15px;
+}
+
+.divTableRow {
+	display: table-row;
+	
+}
+.tblHeadRowGroup {
+	display: table-row-group;
+}
+
+.divTableRowGroup {
+	display: table-row-group;
+}
+
+.divTableRow {
+	dispaly: table-row;
+}
+
+
+
+.tblHeadRow {
+	display: table-row;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px dotted;
+}
+
+.tblHeadCell {
+	display: table-cell;
+	
+}
+
+.tbl_hc_srcid {
+	display: table-cell;
+	margin-right: 1px;
+	padding-right: 1px;
+	width: 70px;
+	text-align: center;
+	border-right: 1px dotted;
+	border-bottom: 1px dotted;
+	border-left: 1px dotted;
+}
+.tbl_hc_targetid {
+	display: table-cell;
+	margin-right: 1px;
+	padding-right: 1px;
+	width: 70px;
+	text-align: center;
+	border-right: 1px dotted;
+	border-bottom: 1px dotted;
+	border-left: 1px dotted;
+}
+.tbl_hc_pcode {
+	display: table-cell;
+	margin-right: 1px;
+	padding-right: 1px;
+	width: 70px;
+	text-align: center;
+	border-right: 1px dotted;
+	border-bottom: 1px dotted;
+	border-left: 1px dotted;
+}
+.tbl_hc_pserial {
+	display: table-cell;
+	margin-right: 1px;
+	padding-right: 1px;
+	width: 120px;
+	text-align: center;
+	border-right: 1px dotted;
+	border-bottom: 1px dotted;
+	border-left: 1px dotted;
+}
+.tbl_hc_ctype {
+	display: table-cell;
+	margin-right: 1px;
+	padding-right: 1px;
+	width: 50px;
+	text-align: center;
+	border-right: 1px dotted;
+	border-bottom: 1px dotted;
+	border-left: 1px dotted;
+}
+.tbl_hc_src {
+	display: table-cell;
+	margin-right: 1px;
+	padding-right: 1px;
+	width: 300px;
+	text-align: center;
+	border-right: 1px dotted;
+	border-bottom: 1px dotted;
+	border-left: 1px dotted;
+}
+.tbl_hc_target {
+	display: table-cell;
+	margin-right: 1px;
+	padding-right: 1px;
+	width: 300px;
+	text-align: center;
+	border-right: 1px dotted;
+	border-bottom: 1px dotted;
+	border-left: 1px dotted;
+}
+
+.tbl_cell_srcid {
+	display: table-cell;
+	margin-right: 1px;
+	padding-right: 1px;
+	width: 70px;
+	text-align: center;
+	border-right: 1px dotted;
+	border-bottom: 1px dotted;
+	border-left: 1px dotted;
+}
+
+.tbl_cell_targetid {
+	display: table-cell;
+	margin-right: 1px;
+	padding-right: 1px;
+	width: 70px;
+	text-align: center;
+	border-right: 1px dotted;
+	border-bottom: 1px dotted;
+	border-left: 1px dotted;
+}
+
+.tbl_cell_pcode {
+	display: table-cell;
+	margin-right: 1px;
+	padding-right: 1px;
+	width: 70px;
+	text-align: center;
+	border-right: 1px dotted;
+	border-bottom: 1px dotted;
+	border-left: 1px dotted;
+}
+
+.tbl_cell_pserial {
+	display: table-cell;
+
+	margin-right: 1px;
+	padding-right: 1px;
+	width: 120px;
+	text-align: center;
+	border-right: 1px dotted;
+	border-bottom: 1px dotted;
+	border-left: 1px dotted;
+}
+
+.tbl_cell_ctype {
+	display: table-cell;
+	margin-right: 1px;
+	padding-right: 1px;
+	width: 50px;
+	text-align: center;
+	border-right: 1px dotted;
+	border-bottom: 1px dotted;
+	border-left: 1px dotted;
+}
+
+.tbl_cell_src {
+	display: table-cell;
+	margin-right: 1px;
+	padding-right: 1px;
+	width: 300px;
+	text-align: justify;
+	border-right: 1px dotted;
+	border-bottom: 1px dotted;
+	border-left: 1px dotted;
+}
+
+.tbl_cell_target {
+	display: table-cell;
+	margin-right: 1px;
+	padding-right: 1px;
+	width: 300px;
+	text-align: justify;
+	border-right: 1px dotted;
+	border-bottom: 1px dotted;
+	border-left: 1px dotted;
+}
+
+
+
+.divTableHeading {
+	display: table-header-group; 
+	font-size: 15px;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+	font-size: 15px;
+}
+
+.alignSrcRowGroup {
+	display: table-row-group;
+}
+.alignTargetRowGroup {
+	display: table-row-group;
+}
+.divTargetRow {
+	display: table-row;
+}
+.divTargetCell{
+	display: table-cell;
+	width: 30px;
+	text-align: center;
+	border-right: 1px dotted black;
+	border-left: 1px dotted gray;
+	border-bottom: 1px dotted gray;
+	border-top: 1px dotted gray;
+	margin-right: 1px;
+	margin-top: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+.divTableCell {display: table-cell;}
+.divTableHead {display: table-cell;}
+
+.divSrcCell {
+	display: table-cell; 
+	width: 30px;
+	text-align: center;
+	border-right: 1px dotted black;
+	border-left: 1px dotted gray;
+	border-bottom: 1px dotted gray;
+	border-top: 1px dotted gray;
+	margin-right: 1px;
+	margin-top: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+.divSrcRow {display: table-row;}
+.divOpRow {display: table-row;}
+.divOpCell {
+	display: table-cell;
+	width: 30px;
+	text-align: center;
+	border-right: 1px dotted black;
+	border-left: 1px dotted gray;
+	border-bottom: 1px dotted gray;
+	border-top: 1px dotted gray;
+	margin-right: 1px;
+	margin-top: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+}
+.divOpCellNB {
+	display: table-cell;
+	width: 30px;
+	text-align: center;
+	border-right: 1px dotted black;
+	border-left: 1px dotted gray;
+	border-bottom: 1px dotted gray;
+	border-top: 1px dotted gray;
+	margin-right: 1px;
+	margin-top: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+	background-color: #f0f0ec;
+}
+
+.divOpCellNB {display: table-cell; }
+
+.divTableHeading {
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	margin-top: 20px;
+	border-top: 1px dotted gray;
+}
+
+

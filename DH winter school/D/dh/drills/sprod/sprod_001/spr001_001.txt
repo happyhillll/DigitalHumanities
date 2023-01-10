@@ -1,0 +1,1599 @@
+CSJH01	절대가인/N
+CSJH01	생기/V + 을/e
+CSJH01	적/N + 에/j
+CSJH01	강산정기/N
+CSJH01	타/V + 어서/e
+CSJH01	나/V + 는다/e
+CSJH01	저라산/N
+CSJH01	약야계/N + 에/j
+CSJH01	서시/N + 이/j
+CSJH01	종출/N + 하/t + 고/e
+CSJH01	군산만학부형문/N + 에/j
+CSJH01	왕소군/N + 이/j
+CSJH01	생장/N + 하/t + 고/e
+CSJH01	쌍각산/N + 이/j
+CSJH01	수려/N + 하/t + 어/e
+CSJH01	녹주/N + 이/j
+CSJH01	생기/V + 었/f + 으며/e
+CSJH01	금강활이아미수/N + 에/j
+CSJH01	설도/N + 문군/N
+CSJH01	환출/N + 하/t + 었/f + 더니/e
+CSJH01	호남좌도/N
+CSJH01	남원부/N + 은/j
+CSJH01	동/N + 으로/j
+CSJH01	지리산/N
+CSJH01	서/N + 으로/j
+CSJH01	적성강/N
+CSJH01	산수정기/N
+CSJH01	어리/V + 어서/e
+CSJH01	춘향/N + 이/s + 이/j
+CSJH01	생기/V + 었/f + 구나/e
+CSJH02	아동방/N
+CSJH02	예악문물/N
+CSJH02	단군/N
+CSJH02	기자/N
+CSJH02	교화/N + 이/c + 로다/e
+CSJH02	태조대왕/N
+CSJH02	창업수통/N
+CSJH02	한양도읍/N + 하/t + 시/f + 은/e
+CSJH02	후/N + 에/j
+CSJH02	열성조의/N
+CSJH02	지인지덕/N
+CSJH02	훈도함양하옵/N + 시/s + 이니/j
+CSJH02	일국/N + 이/j
+CSJH02	희호/N + 하/t + 고/e
+CSJH02	삼강/N + 이/j
+CSJH02	소명/N + 하/t + 어/e
+CSJH02	충효열/N
+CSJH02	장하/V + 은/e
+CSJH02	행실/N
+CSJH02	상중하/N
+CSJH02	사람/N + 들/s + 에게/j
+CSJH02	집집이/B
+CSJH02	나/V + 는구나/e
+CJJB	숙종대왕/N
+CJJB	즉위/N + 하/t + 으사/e
+CJJB	성자성손/N + 은/j
+CJJB	계계승승/N + 하/t + 어/e
+CJJB	금고옥촉/N + 은/j
+CJJB	요순/N + 의/j
+CJJB	시절/N + 이/c + 요/e
+CJJB	의관문물/N + 은/j
+CJJB	우탕/N + 의/j
+CJJB	버금/N + 이/c + 으라/e
+CJJB	좌우보필/N + 은/j
+CJJB	주석지신/N + 이/c + 요/e
+CJJB	용양호위/N + 은/j
+CJJB	간성지장/N + 이/c + 로다/e
+CJJB	조정/N + 에/j
+CJJB	흐르/V + 은/e
+CJJB	덕/N + 은/j
+CJJB	향곡/N + 에/j
+CJJB	피/V + 어/e
+CJJB	있/V + 고/e
+CJJB	산하/N + 에/j
+CJJB	남/V + 은/e
+CJJB	기운/N
+CJJB	존비/N + 이/j
+CJJB	없/V + 겠/f + 구나/e
+CBSH	절대가인/N
+CBSH	생겨나/V + 을/e
+CBSH	적/N + 에/j
+CBSH	강산정기/N
+CBSH	타/V + 어/e
+CBSH	나/V + 었겠/f + 다/e
+CBSH	저라산/N
+CBSH	약야/N
+CBSH	서시/N + 이/j
+CBSH	종출/N + 하/t + 었/f + 고/e
+CBSH	군산만학부형문/N + 에/j
+CBSH	왕소군/N + 이/j
+CBSH	생하/V + 시/f + 고/e
+CBSH	쌍각산/N
+CBSH	수려/N + 하/t + 어/e
+CBSH	녹주/N + 이/j
+CBSH	생하/V + 시/f + 으며/e
+CBSH	전라좌도/N
+CBSH	남원부/N + 은/j
+CBSH	동/N + 으로/j
+CBSH	지리산/N
+CBSH	서/N + 으로/j
+CBSH	적성강/N
+CBSH	산수정기/N
+CBSH	어리/V + 어서/e
+CBSH	춘향/N + 이/s + 이/j
+CBSH	생기/V + 었겄/f + 다/e
+CPKH	숙종대왕/N
+CPKH	즉위/N
+CPKH	초/N + 에/j
+CPKH	세화연풍/N + 하/t + 고/e
+CPKH	국태민안/N + 하/t + 어/e
+CPKH	강구도/N + 에/j
+CPKH	격양가/N + 을/j
+CPKH	일삼/V + 는지라/e
+SPSH12	숙종대왕/N
+SPSH12	즉위/N
+SPSH12	초/N + 은/j
+SPSH12	시체/N + 에/j
+SPSH12	다/B
+SPSH12	알/V + 는/e
+SPSH12	말/N + 이/c + 으라/e
+SPSH12	훨씬/B
+SPSH12	벌이/V + 고/e
+SPSH12	하/V + 던/e
+SPSH12	것/N + 이/c + 었/f + 다/e
+SPSH13	숙종대왕/N
+SPSH13	즉위/N
+SPSH13	초/N + 에/j
+SPSH13	성자성손/N + 은/j
+SPSH13	계계승승/N + 하/t + 고/e
+SPSH13	용양호위/N + 은/j
+SPSH13	간성지장/N + 이/c + 으라/e
+SPSH13	흐르/V + 는/e
+SPSH13	덕화/N
+SPSH13	향곡/N + 에/j
+SPSH13	피/V + 어/e
+SPSH13	있/V + 고/e
+SPSH13	어질/V + 은/e
+SPSH13	덕화/N
+SPSH13	인간/N + 에/j
+SPSH13	피/V + 었/f + 어라/e
+SPSH13	좌우보필/N + 은/j
+SPSH13	주석지신/N + 이/c + 요/e
+SPSH13	용양호위/N + 은/j
+SPSH13	간성지장/N + 이/c + 으라/e
+SPSH13	구가/N + 에/j
+SPSH13	태평/N + 하/t + 고/e
+SPSH13	인간/N + 에/j
+SPSH13	일이/D
+SPSH13	없/V + 어/e
+SPSH13	태평시절/N + 이/c + 으라/e
+CLSU	자고로/B
+CLSU	현성지국/N + 에/j
+CLSU	충신/N + 이/j
+CLSU	있/V + 는/e
+CLSU	법/N + 이/c + 으라/e
+CLSU	요순시절/N + 에/j
+CLSU	고요직설/N + 이/j
+CLSU	있/V + 고/e
+CLSU	은주/N
+CLSU	때/N + 에/j
+CLSU	이윤/N
+CLSU	여상/N + 이/j
+CLSU	나/V + 었/f + 으니/e
+CLSU	진실로/B
+CLSU	홍모우순풍/N + 이/c + 으라/e
+CLSU	아동국/N
+CLSU	숙종/N
+CLSU	시절/N + 에/j
+CSUH	호남/N + 의/j
+CSUH	남원/N + 이/c + 으라/e
+CSUH	하/V + 는/e
+CSUH	고을/N + 이/j
+CSUH	옛날/N
+CSUH	대방국/N + 이/c + 었/f + 다/e
+CSUH	동/N + 으로/j
+CSUH	지리산/N
+CSUH	서/N + 으로/e
+CSUH	적성강/N
+CSUH	남북상성/N + 하/t + 고/e
+CSUH	북통운암/N + 하/t + 니/e
+CSUH	곳곳이/B
+CSUH	금수강산/N + 이/c + 요/e
+CSUH	번화승지/N + 이/c + 로구나/e
+CSUH	산/N + 지형/s + 이/j
+CSUH	이러하/V + 니/e
+CSUH	남녀/N + 간/s
+CSUH	일색/N + 도/j
+CSUH	나/V + 으려니와/e
+CSUH	만고충신/N
+CSUH	관왕묘/N + 을/j
+CSUH	모시/V + 었/f + 으니/e
+CSUH	당당하/V + 은/e
+CSUH	충렬/N + 이/j
+CSUH	아니/B
+CSUH	나/V + 을/e
+CSUH	수/N
+CSUH	있/V + 겠/f + 느냐/e
+CJSH	호남좌도/N
+CJSH	남원부/N + 은/j
+CJSH	옛날/N
+CJSH	대방국/N + 이/c + 으라/e
+CJSH	하/V + 였겄/f + 다/e
+CJSH	동/N + 으로/j
+CJSH	지리산/N
+CJSH	서/N + 으로/j
+CJSH	적성강/N
+CJSH	남북강성/N + 하/t + 고/e
+CJSH	북통운암/N + 하/t + 니/e
+CJSH	곳곳이/B
+CJSH	승지/N + 이/c + 요/e
+CJSH	산수정기/N
+CJSH	어리/V + 어/e
+CJSH	남녀/N + 간/s
+CJSH	일색/N + 도/j
+CJSH	나/V + 으려니와/e
+CJSH	만고충신/N
+CJSH	관왕묘/N + 을/j
+CJSH	모시/V + 었/f + 으니/e
+CJSH	당당하/V + 은/e
+CJSH	충렬/N + 이/j
+CJSH	아니/B
+CJSH	나/V + 을/e
+CJSH	수/N
+CJSH	있/V + 겠/f + 느냐/e
+CKYR	숙종대왕/N
+CKYR	즉위/N
+CKYR	초/N + 에/j
+CKSH	절대가인/N
+CKSH	태어나/V + 을/e
+CKSH	제/N
+CKSH	강산정기/N
+CKSH	타/V + 어서/e
+CKSH	나/V + 는다/e
+CKSH	저라산/N
+CKSH	약야계/N + 에/j
+CKSH	서시/N + 이/j
+CKSH	종출/N + 하/t + 고/e
+CKSH	군산만학부형문/N + 에/j
+CKSH	왕소군/N + 이/j
+CKSH	생장/N + 하/t + 고/e
+CKSH	쌍각산/N + 이/j
+CKSH	수려/N + 하/t + 어/e
+CKSH	녹주/N + 이/j
+CKSH	생기/V + 었/f + 으며/e
+CKSH	금강활이아미수/N + 에/j
+CKSH	설도/N
+CKSH	환출/N + 하/t + 었/f + 더니/e
+CKSH	호남좌도/N
+CKSH	남원부/N + 은/j
+CKSH	동/N + 으로/j
+CKSH	지리산/N
+CKSH	서/N + 으로/j
+CKSH	적성강/N
+CKSH	산수정기/N
+CKSH	어리/V + 어서/e
+CKSH	춘향/N + 이/s + 이/j
+CKSH	생기/V + 었/f + 구나/e
+CPDJ	절대가인/N + 과/j
+CPDJ	영웅호걸/N + 이/j
+CPDJ	생겨나/V + 을/e
+CPDJ	제/N
+CPDJ	강산정기/N + 을/j
+CPDJ	타/V + 고/e
+CPDJ	나/V + 시/f + 는데/e
+CPDJ	호남좌도/N
+CPDJ	남원부/N + 은/j
+CPDJ	동/N + 으로/j
+CPDJ	지리산/N
+CPDJ	서/N + 으로/j
+CPDJ	적성강/N
+CPDJ	산수정기/N
+CPDJ	서리/V + 어서/e
+CPDJ	춘향/N + 이/s + 이/j
+CPDJ	생기/V + 었/f + 구나/e
+CJKS	절대가인/N
+CJKS	태어나/V + 을/e
+CJKS	제/N
+CJKS	강산정기/N
+CJKS	타/V + 어서/e
+CJKS	나/V + 는다/e
+CJKS	저라산/N
+CJKS	약야계/N + 에/j
+CJKS	서시/N + 이/j
+CJKS	종출/N + 하/t + 고/e
+CJKS	군산만학부형문/N + 에/j
+CJKS	왕소군/N + 이/j
+CJKS	생장/N + 하/t + 고/e
+CJKS	쌍각산/N + 이/j
+CJKS	수려/N + 하/t + 어/e
+CJKS	녹주/N + 이/j
+CJKS	생기/V + 었/f + 으며/e
+CJKS	금강활이아미수/N + 에/j
+CJKS	설도/N
+CJKS	환출/N + 하/t + 었/f + 더니/e
+CJKS	호남좌도/N
+CJKS	남원부/N + 은/j
+CJKS	동/N + 으로/j
+CJKS	지리산/N
+CJKS	서/N + 으로/j
+CJKS	적성강/N
+CJKS	산수정기/N
+CJKS	어리/V + 어서/e
+CJKS	춘향/N + 이/s + 이/j
+CJKS	생기/V + 었/f + 구나/e
+CKYS	영웅열사/N + 과/j
+CKYS	절대가인/N
+CKYS	생겨나/V + 을/e
+CKYS	제/N
+CKYS	강산정기/N + 을/j
+CKYS	타/V + 고/e
+CKYS	나/V + 는데/e
+CKYS	군산만학부형문/N + 에/j
+CKYS	왕소군/N + 이/j
+CKYS	셍겨나/N + 이/c + 고/e
+CKYS	금강활이아미수/N + 에/j
+CKYS	설도/N + 문군/N
+CKYS	환생/N + 이/c + 으라/e
+CKYS	우리나라/N
+CKYS	호남좌도/N
+CKYS	남원부/N + 은/j
+CKYS	동/N + 으로/j
+CKYS	지리산/N
+CKYS	서/N + 으로/j
+CKYS	적성강/N
+CKYS	산수정기/N
+CKYS	어리/V + 어서/e
+CKYS	춘향/N + 이/s + 이/j
+CKYS	생기/V + 었/f + 는데/e
+CPBS	숙종대왕/N
+CPBS	즉위/N + 하/t + 으사/e
+CPBS	성자성손/N + 이/j
+CPBS	계계승승/N + 하/t + 어/e
+CPBS	금고옥촉/N + 은/j
+CPBS	요순/N + 의/j
+CPBS	시절/N + 이/c + 요/e
+CPBS	용왕호위/N + 은/j
+CPBS	간성지장/N + 이/c + 로다/e
+CPBS	조정/N + 에/j
+CPBS	흐르/V + 은/e
+CPBS	덕화/N
+CPBS	향곡/N + 에/j
+CPBS	피/V + 어/e
+CPBS	있/V + 고/e
+CPBS	산하/N + 에/j
+CPBS	남/V + 은/e
+CPBS	기운/N
+CPBS	존비/N + 이/j
+CPBS	없/V + 겠/f + 구나/e
+ESEL01	화설/N
+ESEL01	아국/N
+ESEL01	숙종조/N
+ESEL01	시절/N
+ESEL02	화설/N
+ESEL02	아조/N
+ESEL02	인조조/N
+ESEL02	때/N + 에/j
+ESEL03	화설/N
+ESEL03	아조/N
+ESEL03	인조조/N
+ESEL03	때/N + 에/j
+EAHN	화설/N
+EAHN	인조조/N
+EAHN	때/N + 에/j
+ESEL04	화설/N
+ESEL04	아조/N
+ESEL04	인조조/N
+ESEL04	때/N + 에/j
+ESEL05	화설/N
+ESEL05	아조/N
+ESEL05	인조조/N
+ESEL05	때/N + 에/j
+EJUN01	숙종대왕/N
+EJUN01	즉위/N
+EJUN01	초/N + 에/j
+EJUN01	시화연풍/N + 하/t + 고/e
+EJUN01	국태민안/N + 하/t + 어/e
+EJUN01	강구동요/N
+EJUN01	격양노옹/N
+EJUN01	제의/N
+EJUN01	힘/N + 을/j
+EJUN01	어이/B
+EJUN01	알/V + 리/e
+EJUN01	조정/N + 에/j
+EJUN01	충신/N + 이/c + 요/e
+EJUN01	효자/N
+EJUN01	열녀/N + 은/j
+EJUN01	가가재/N + 이/c + 로다/e
+EJUN02	숙종대왕/N
+EJUN02	즉위/N
+EJUN02	초/N + 에/j
+EJUN02	시화연풍/N + 하/t + 고/e
+EJUN02	국태민안/N + 하/t + 어/e
+EJUN02	만물/N + 이/j
+EJUN02	번성/N + 하/t + 고/e
+EJUN02	백성/N + 이/j
+EJUN02	효도/N + 하/t + 어/e
+EJUN02	충신/N + 은/j
+EJUN02	만조정/N + 이/c + 요/e
+EJUN02	여염/N + 에/j
+EJUN02	열녀/N + 이/c + 로다/e
+EJUN03	숙종대왕/N
+EJUN03	즉위/N
+EJUN03	초/N + 에/j
+EJUN03	성덕/N + 이/j
+EJUN03	넙/V + 으시/f + 으사/e
+EJUN03	성자성손/N + 은/j
+EJUN03	계계승승/N + 하/t + 으사/e
+EJUN03	금고옥촉/N + 은/j
+EJUN03	요순시절/N + 이/c + 요/e
+EJUN03	의관문물/N + 은/j
+EJUN03	우탕/N + 의/j
+EJUN03	버금/N + 이/c + 으라/e
+EJUN03	좌우보필/N + 은/j
+EJUN03	주석지신/N + 이/c + 요/e
+EJUN03	용양호위/N
+EJUN03	간성지장/N + 이/c + 으라/e
+EJUN03	조정/N + 에/j
+EJUN03	흐르/V + 는/e
+EJUN03	덕화/N
+EJUN03	향곡/N + 에/j
+EJUN03	피/V + 어/e
+EJUN03	있/V + 고/e
+EJUN03	사해/N + 에/j
+EJUN03	굳/V + 은/e
+EJUN03	기운/N
+EJUN03	원근/N + 에/j
+EJUN03	어리/V + 었/f + 다/e
+EJUN03	충신/N + 은/j
+EJUN03	만조정/N + 이/c + 요/e
+EJUN03	효자/N
+EJUN03	열녀/N
+EJUN03	가가재/N + 이/c + 라/e
+EJUN03	미재미재/N + 이여/j
+EJUN03	우순풍조/N + 하/t + 니/e
+EJUN03	일대건곤성명세/N + 이/c + 라/e
+EJUN04	숙종대왕/N
+EJUN04	즉위/N
+EJUN04	초/N + 에/j
+EJUN04	성덕/N + 이/j
+EJUN04	넙/V + 으시/f + 으사/e
+EJUN04	성자성손/N + 은/j
+EJUN04	계계승승/N + 하/t + 으사/e
+EJUN04	금고옥촉/N + 은/j
+EJUN04	요순시절/N + 이/c + 요/e
+EJUN04	의관문물/N + 은/j
+EJUN04	우탕/N + 의/j
+EJUN04	버금/N + 이/c + 으라/e
+EJUN04	좌우보필/N + 은/j
+EJUN04	주석지신/N + 이/c + 요/e
+EJUN04	용양호위/N + 은/j
+EJUN04	간성지장/N + 이/c + 으라/e
+EJUN04	조정/N + 에/j
+EJUN04	흐르/V + 는/e
+EJUN04	덕화/N
+EJUN04	향곡/N + 에/j
+EJUN04	피/V + 었/f + 으니/e
+EJUN04	사해/N
+EJUN04	굳/V + 은/e
+EJUN04	기운/N + 이/j
+EJUN04	원근/N + 에/j
+EJUN04	어리/V + 어/e
+EJUN04	있/V + 다/e
+EJUN04	충신/N + 은/j
+EJUN04	만조/N + 하/t + 고/e
+EJUN04	효자/N
+EJUN04	열녀/N
+EJUN04	가가재/N + 이/c + 라/e
+EJUN04	미재미재/N + 이/c + 라/e
+EJUN04	우순풍조/N + 하/t + 니/e
+EJUN04	함포고복/N
+EJUN04	백성/N + 들/s + 은/j
+EJUN04	처처/N + 에/j
+EJUN04	격양가/N + 이/c + 라/e
+SKDU01	숙종대왕/N
+SKDU01	즉위/N
+SKDU01	초/N + 에/j
+SKDU01	국태민안/N + 하/t + 고/e
+SKDU01	시화연풍/N + 이/c + 으라/e
+SKDU01	조정/N + 에는/j
+SKDU01	충신/N + 이/c + 요/e
+SKDU01	여염/N + 에는/j
+SKDU01	효자/N
+SKDU01	열녀/N + 이/c + 로다/e
+SKDU01	백성/N + 이/j
+SKDU01	격양가/N + 을/j
+SKDU01	일삼/V + 을/e
+SKDU01	제/N
+SKDU06	절대가인/N
+SKDU06	생겨나/V + 을/e
+SKDU06	제/N
+SKDU06	강산정기/N
+SKDU06	타/V + 어서/e
+SKDU06	나/V + 는다/e
+SKDU06	저라산하/N
+SKDU06	약야계/N + 에/j
+SKDU06	서시/N + 이/j
+SKDU06	종출/N + 하/t + 고/e
+SKDU06	군산만학부형문/N + 에/j
+SKDU06	왕소군/N + 이/j
+SKDU06	생장/N + 하/t + 고/e
+SKDU06	쌍각산/N + 이/j
+SKDU06	수려/N + 하/t + 어/e
+SKDU06	녹주/N + 이/j
+SKDU06	생기/V + 었/f + 으며/e
+SKDU06	금강활이아미수/N + 에/j
+SKDU06	설도/N + 문군/N
+SKDU06	환출/N + 이/c + 으라/e
+SKDU06	호남좌도/N
+SKDU06	남원부/N + 은/j
+SKDU06	동/N + 으로/j
+SKDU06	지리산/N
+SKDU06	서/N + 으로/j
+SKDU06	적성강/N
+SKDU06	산수정기/N
+SKDU06	어리/V + 어서/e
+SKDU06	춘향/N + 이/s + 이/j
+SKDU06	생기/V + 어/e
+SKDU06	있/V + 다/e
+SKDU07	절대가인/N
+SKDU07	생겨나/V + 을/e
+SKDU07	제/N
+SKDU07	강산정기/N
+SKDU07	타/V + 어서/e
+SKDU07	나/V + 는다/e
+SKDU07	저라산하/N
+SKDU07	약야계/N + 에/j
+SKDU07	서시/N + 이/j
+SKDU07	종출/N + 하/t + 고/e
+SKDU07	군산만학부형문/N + 에/j
+SKDU07	왕소군/N + 이/j
+SKDU07	생장/N + 하/t + 고/e
+SKDU07	쌍각산/N + 이/j
+SKDU07	수려/N + 하/t + 어/e
+SKDU07	녹주/N + 이/j
+SKDU07	생기/V + 었/f + 으며/e
+SKDU07	금강활이아미수/N + 에/j
+SKDU07	설도/N
+SKDU07	환출/N + 하/t + 었/f + 으니/e
+SKDU07	호남좌도/N
+SKDU07	남원부/N + 은/j
+SKDU07	동/N + 으로/j
+SKDU07	지리산/N
+SKDU07	서/N + 으로/j
+SKDU07	적성강/N
+SKDU07	산수정기/N
+SKDU07	어리/V + 어서/e
+SKDU07	춘향/N + 이/s + 이/j
+SKDU07	생기/V + 어/e
+SKDU07	있/V + 다/e
+SSDJ01	화설/N
+SSJD02	자고로/B
+SSJD02	충신/N + 은/j
+SSJD02	불사이군/N + 이/c + 요/e
+SSJD02	열녀/N + 은/j
+SSJD02	성현지국/N + 에/j
+SSJD02	있/V + 는/e
+SSJD02	법/N + 이/c + 었/f + 다/e
+SSJD02	이러하/V + 음/e + 으로/j
+SSJD02	요순시절/N + 에/j
+SSJD02	고요직설/N + 이/j
+SSJD02	있/V + 고/e
+SSJD02	하은주/N
+SSJD02	때/N + 에/j
+SSJD02	이윤/N
+SSJD02	여상/N + 이/j
+SSJD02	있으되/N
+SSJD02	이렇/V + 음/e + 으로/j
+SSJD02	국운/N + 이/j
+SSJD02	장원/N + 하/t + 고/e
+SSJD02	성세태평/N + 이/c + 으라/e
+SSJD03	중원/N
+SSJD03	갑자/N
+SSJD03	을축/N + 간/s
+SSJD04	숙종대왕/N
+SSJD04	즉위/N
+SSJD04	초/N + 에/j
+SSJD04	세화연풍/N + 하/t + 고/e
+SSJD04	국태민안/N + 하/t + 어/e
+SSJD04	충신/N + 은/j
+SSJD04	만조정/N + 이/c + 요/e
+SSJD04	열녀/N + 은/j
+SSJD04	가가재/N + 이/c + 라/e
+SSJD04	산무도적/N + 하/t + 고/e
+SSJD04	도불습유/N + 하/t + 던/e
+SSJD04	것/N + 이/c + 었/f + 다/e
+SSJD05	자고로/B
+SSJD05	충신/N
+SSJD05	벼슬/N + 은/j
+SSJD05	허송지국/N + 에/j
+SSJD05	있/V + 는/e
+SSJD05	법/N + 이/c + 었/f + 다/e
+SSJD05	이러하/V + 음/e + 으로/j
+SSJD05	요순시절/N + 에/j
+SSJD05	고요직설/N + 이/j
+SSJD05	있/V + 고/e
+SSJD05	하은주/N
+SSJD05	때/N + 에/j
+SSJD05	이윤/N
+SSJD05	여상/N + 이/j
+SSJD05	있/V + 었/f + 으니/e
+SSJD05	국운/N
+SSJD05	장원/N + 하/t + 고/e
+SSJD05	성세태평/N + 이/c + 으라/e
+SSJD06	숙종대왕/N
+SSJD06	즉위/N
+SSJD06	초/N + 에/j
+SSJD06	국태민안/N + 하/t + 고/e
+SSJD06	세화연풍/N + 이/c + 으라/e
+SPSH01	이때/N + 은/j
+SPSH01	어느/D
+SPSH01	때/N + 이/c + 뇨/e
+SPSH01	춘삼월/N
+SPSH01	호시절/N + 이/c + 으라/e
+SPSH01	태평건곤/N + 에/j
+SPSH01	풍광/N + 이/j
+SPSH01	늦/V + 었/f + 으니/e
+SPSH01	녹수번음앵세계/N + 이/c + 요/e
+SPSH01	낙화유수금강변/N + 이/c + 으라/e
+SPSH01	호남/N + 이/j
+SPSH01	예/N + 으로부터/j
+SPSH01	춘풍물색/N + 이/j
+SPSH01	일세/N + 에/j
+SPSH01	으뜸/N + 이/c + 으라/e
+SPSH02	숙종대왕/N
+SPSH02	즉위/N
+SPSH02	초/N + 에/j
+SPSH02	시화연풍/N + 하/t + 고/e
+SPSH02	국태민안/N + 하/t + 어/e
+SPSH02	만물/N + 이/j
+SPSH02	번성/N + 하/t + 고/e
+SPSH02	백성/N + 이/j
+SPSH02	격양가/N + 을/j
+SPSH02	일삼/V + 더니/e
+SPSH02	조정/N + 은/j
+SPSH02	충신/N + 이/c + 요/e
+SPSH02	여염/N + 은/j
+SPSH02	열녀/N + 이/c + 로다/e
+SPSH03	숙종대왕/N
+SPSH03	즉위/N
+SPSH03	초/N + 에/j
+SPSH03	성덕/N + 이/j
+SPSH03	넙/V + 으시/f + 으사/e
+SPSH03	성자성손/N + 은/j
+SPSH03	계계승승/N + 하/t + 으사/e
+SPSH03	금고옥촉/N + 은/j
+SPSH03	요순시절/N + 이/c + 요/e
+SPSH03	의관문물/N + 은/j
+SPSH03	우탕/N + 의/j
+SPSH03	버금/N + 이/c + 으라/e
+SPSH03	좌우보필/N + 은/j
+SPSH03	주석지신/N + 이/c + 요/e
+SPSH03	용양호위/N
+SPSH03	간성지장/N + 이/c + 으라/e
+SPSH03	조정/N + 에/j
+SPSH03	흐르/V + 는/e
+SPSH03	덕화/N
+SPSH03	향곡/N + 에/j
+SPSH03	피/V + 어/e
+SPSH03	있/V + 고/e
+SPSH03	사해/N + 에/j
+SPSH03	굳/V + 은/e
+SPSH03	기운/N
+SPSH03	원근/N + 에/j
+SPSH03	어리/V + 었/f + 다/e
+SPSH03	충신/N
+SPSH03	만조정/N + 이/c + 요/e
+SPSH03	효자/N
+SPSH03	열녀/N
+SPSH03	가가재/N + 이/c + 라/e
+SPSH03	미재미재/N + 이여/j
+SPSH03	우순풍조/N + 하/t + 니/e
+SPSH03	일대건곤성명세/N + 이/c + 라/e
+SPSH04	숙종대왕/N
+SPSH04	즉위/N
+SPSH04	초/N + 에/j
+SPSH04	시화연풍/N + 하/t + 고/e
+SPSH04	국태민안/N + 하/t + 어/e
+SPSH04	요지일월/N + 이/c + 요/e
+SPSH04	순지건곤/N + 이/c + 으라/e
+SPSH04	강구연월/N
+SPSH04	좋/V + 을시고/e
+SPSH04	태평시절/N
+SPSH04	그리/V + 어/e
+SPSH04	있/V + 다/e
+SPSH04	일천지하/N
+SPSH04	초목금수/N
+SPSH04	제력/N + 이/c + 은들/e
+SPSH04	없/V + 을쏘냐/e
+SPSH04	착정음/N
+SPSH04	경전식/N + 은/j
+SPSH04	격양가/N + 을/j
+SPSH04	그리/V + 어/e
+SPSH04	있/V + 다/e
+SPSH04	조정/N + 에는/j
+SPSH04	충신/N + 이/c + 요/e
+SPSH04	여염/N + 은/j
+SPSH04	열녀/N + 이/c + 로다/e
+SPSH06	절대가인/N
+SPSH06	생겨나/V + 을/e
+SPSH06	제/N
+SPSH06	강산정기/N
+SPSH06	타/V + 어서/e
+SPSH06	나/V + 는다/e
+SPSH06	저라산하/N
+SPSH06	약야계/N + 에/j
+SPSH06	서시/N + 이/j
+SPSH06	종출/N + 하/t + 고/e
+SPSH06	군산만학부형문/N + 에/j
+SPSH06	왕소군/N + 이/j
+SPSH06	생장/N + 하/t + 고/e
+SPSH06	쌍각산/N + 이/j
+SPSH06	수려/N + 하/t + 어/e
+SPSH06	녹주/N + 이/j
+SPSH06	생기/V + 었/f + 으며/e
+SPSH06	금강활이아미수/N + 에/j
+SPSH06	설도/N + 문군/N
+SPSH06	환출/N + 이/c + 으라/e
+SPSH06	호남좌도/N
+SPSH06	남원부/N + 은/j
+SPSH06	동/N + 으로/j
+SPSH06	지리산/N
+SPSH06	서/N + 으로/j
+SPSH06	적성강/N
+SPSH06	산수정기/N
+SPSH06	어리/V + 어서/e
+SPSH06	춘향/N + 이/s + 이/j
+SPSH06	생기/V + 어/e
+SPSH06	있/V + 다/e
+SPSH07	아조/N
+SPSH07	중년/N
+SPSH07	즉위/N
+SPSH07	초/N + 에/j
+SPSH07	시화연풍/N + 하/t + 고/e
+SPSH07	국태민안/N + 하/t + 고/e
+SPSH07	요천지/N
+SPSH07	순일월/N + 에/j
+SPSH07	태평천지/N
+SPSH07	아니/V + 을런가/e
+SPSH07	강구/N + 에/j
+SPSH07	저/D
+SPSH07	노인/N
+SPSH07	제/N + 의/j
+SPSH07	힘/N + 을/j
+SPSH07	모르/V + 었/f + 구나/e
+SPSH09	숙종대왕/N
+SPSH09	즉위/N
+SPSH09	초/N + 에/j
+SPSH09	국태민안/N + 하/t + 고/e
+SPSH09	시화연풍/N + 하/t + 은데/e
+SPSH09	강구/N + 에/j
+SPSH09	저/D
+SPSH09	노인/N + 은/j
+SPSH09	제/N + 의/j
+SPSH09	힘/N + 을/j
+SPSH09	모르/V + 더라/e
+SPSH10	숙종대왕/N
+SPSH10	즉위/N
+SPSH10	초/N + 에/j
+SPSH10	성군/N + 의/j
+SPSH10	어질/V + 은/e
+SPSH10	덕택/N
+SPSH10	사해/N + 에/j
+SPSH10	포일/N + 하/t + 어/e
+SPSH10	요지일월/N + 이/c + 요/e
+SPSH10	순지건곤/N + 이/c + 으라/e
+SPSH10	강구연월/N
+SPSH10	좋/V + 은/e
+SPSH10	시절/N
+SPSH10	태평기상/N
+SPSH10	그/D
+SPSH10	아니/V + 으며/e
+SPSH10	일천지하/N + 에/j
+SPSH10	초목금수/N
+SPSH10	제력/N + 이/c + 은들/e
+SPSH10	없/V + 을쏘냐/e
+SPSH10	착정음/N
+SPSH10	경전식/N + 은/j
+SPSH10	격양가/N
+SPSH10	소리/N + 이/c + 로다/e
+SPSH11	숙종대왕/N
+SPSH11	즉위/N + 하/t + 으사/e
+SPSH11	성자성손/N
+SPSH11	계계승승/N + 하/t + 어/e
+SPSH11	금고옥촉/N + 은/j
+SPSH11	요순/N + 의/j
+SPSH11	시절/N + 이/c + 요/e
+SPSH11	의관문물/N + 은/j
+SPSH11	우탕/N + 의/j
+SPSH11	버금/N + 이/c + 으라/e
+SPSH11	좌우보필/N + 은/j
+SPSH11	주석지신/N + 이/c + 요/e
+SPSH11	용양호위/N + 은/j
+SPSH11	간성지장/N + 이/c + 로다/e
+SPSH11	조정/N + 에/j
+SPSH11	흐르/V + 은/e
+SPSH11	덕화/N
+SPSH11	향곡/N + 에/j
+SPSH11	피/V + 어/e
+SPSH11	있/V + 고/e
+SPSH11	산하/N + 에/j
+SPSH11	남/V + 은/e
+SPSH11	기운/N
+SPSH11	□□□/Q
+SPSH11	없/V + 겠/f + 구나/e
+SKKS01	숙종대왕/N
+SKKS01	즉위/N
+SKKS01	초/N + 에/j
+SKKS01	시화연풍/N + 하/t + 고/e
+SKKS01	국태민안/N + 하/t + 고/e
+SKKS01	만물/N + 이/j
+SKKS01	번성/N + 하/t + 고/e
+SKKS01	백성/N + 이/j
+SKKS01	효도/N + 하/t + 어/e
+SKKS01	충신/N + 은/j
+SKKS01	만조정/N + 이/c + 요/e
+SKKS01	여염/N + 에/j
+SKKS01	열녀/N + 이/c + 로다/e
+SKKS02	숙종대왕/N
+SKKS02	즉위/N
+SKKS02	초/N + 에/j
+SKKS02	성덕/N + 이/j
+SKKS02	포일하사/N
+SKKS02	충신/N + 은/j
+SKKS02	만조정/N + 이/c + 요/e
+SKKS02	열녀/N + 은/j
+SKKS02	가가재/N + 이/c + 라/e
+SKKS03	숙종대왕/N
+SKKS03	직위/N
+SKKS03	초/N + 에/j
+SKKS03	시화연풍/N + 하/t + 고/e
+SKKS03	국태민안/N + 하/t + 어/e
+SKKS03	국가/N + 에/j
+SKKS03	충신/N + 이/c + 요/e
+SKKS03	여염/N + 에/j
+SKKS03	열녀/N + 이/c + 로다/e
+SKMU	숙종대왕/N
+SKMU	즉위/N
+SKMU	초/N + 에/j
+SKMU	시화연풍/N + 하/t + 고/e
+SKMU	국태민안/N + 하/t + 니/e
+SKMU	강구연월/N + 이/c + 요/e
+SKMU	옥촉건곤/N + 이/c + 으라/e
+SKMU	성상/N + 이/j
+SKMU	밝/V + 시/f + 고/e
+SKMU	관장/N + 이/j
+SKMU	청백/N + 하/t + 니/e
+SKMU	곳곳이/B
+SKMU	태평연/N + 이/c + 요/e
+SKMU	거리거리/N
+SKMU	격양가/N + 이/c + 라/e
+SKMU	충신/N
+SKMU	호걸/N + 은/j
+SKMU	만조정/N + 이/c + 요/e
+SKMU	효자/N
+SKMU	열녀/N + 은/j
+SKMU	가가재/N + 이/c + 라/e
+SSMY01	자고로/B
+SSMY01	충신/N
+SSMY01	열녀/N + 은/j
+SSMY01	현성지국/N + 에/j
+SSMY01	있/V + 는/e
+SSMY01	법/N + 이/c + 었/f + 다/e
+SSMY01	그러하/V + 음/e + 으로/j
+SSMY01	요순시절/N + 에/j
+SSMY01	고요직설/N + 이/j
+SSMY01	있/V + 고/e
+SSMY01	하은주/N
+SSMY01	때/N + 에/j
+SSMY01	이윤/N
+SSMY01	여상/N + 이/j
+SSMY01	있/V + 으니/e
+SSMY01	국운/N
+SSMY01	장원/N + 하/t + 고/e
+SSMY01	성세태평/N + 이/c + 으라/e
+SSMY02	절대가인/N
+SSMY02	생기/V + 을/e
+SSMY02	적/N + 에/j
+SSMY02	강산정기/N
+SSMY02	타/V + 어서/e
+SSMY02	나/V + 는다/e
+SSMY02	저라산/N
+SSMY02	약야계/N + 에/j
+SSMY02	서시/N + 이/j
+SSMY02	종출/N + 하/t + 고/e
+SSMY02	군산만학부형문/N + 에/j
+SSMY02	왕소군/N + 이/j
+SSMY02	생장/N + 하/t + 고/e
+SSMY02	쌍각산/N + 이/j
+SSMY02	수려/N + 하/t + 어/e
+SSMY02	녹주/N + 이/j
+SSMY02	생기/V + 었/f + 으며/e
+SSMY02	금강활이아미수/N + 에/j
+SSMY02	설도/N
+SSMY02	환출/N + 하/t + 었/f + 더니/e
+SSMY02	호남좌도/N
+SSMY02	남원부/N + 은/j
+SSMY02	동/N + 으로/j
+SSMY02	지리산/N
+SSMY02	서/N + 으로/j
+SSMY02	적성강/N
+SSMY02	산수정신/N
+SSMY02	어리/V + 어서/e
+SSMY02	춘향/N + 이/s + 이/j
+SSMY02	생기/V + 었/f + 구나/e
+SSMY03	숙종대왕/N
+SSMY03	즉위/N
+SSMY03	초/N + 에/j
+SSMY03	시화연풍/N + 하/t + 고/e
+SSMY03	국태민안/N + 하/t + 니/e
+SSMY03	요지일월/N + 이/c + 요/e
+SSMY03	순지건곤/N + 이/c + 으라/e
+SSMY03	강구연월/N + 에/j
+SSMY03	격양가/N + 을/j
+SSMY03	일삼/V + 으니/e
+SSMY03	조정/N + 에/j
+SSMY03	충신/N + 이/c + 요/e
+SSMY03	여염/N + 에/j
+SSMY03	열녀/N + 이/c + 로다/e
+SSMY05	절대가인/N
+SSMY05	생겨나/V + 을/e
+SSMY05	제/N
+SSMY05	강산정기/N
+SSMY05	타/V + 어서/e
+SSMY05	나/V + 는다/e
+SSMY05	저라산하/N
+SSMY05	약야계/N + 에/j
+SSMY05	서시/N + 이/j
+SSMY05	종출/N + 하/t + 고/e
+SSMY05	군산만학부형문/N + 에/j
+SSMY05	왕소군/N + 이/j
+SSMY05	생장/N + 하/t + 고/e
+SSMY05	쌍각산/N
+SSMY05	수려/N + 하/t + 어/e
+SSMY05	녹주/N + 이/j
+SSMY05	생기/V + 었/f + 으며/e
+SSMY05	금강활이아미수/N + 에/j
+SSMY05	설도/N + 문군/N
+SSMY05	환출/N + 이/c + 으라/e
+SSMY05	호남좌도/N
+SSMY05	남원부/N + 은/j
+SSMY05	동/N + 으로/j
+SSMY05	지리산/N
+SSMY05	서/N + 으로/j
+SSMY05	적성강/N
+SSMY05	산수정신/N
+SSMY05	어리/V + 어서/e
+SSMY05	춘향/N + 이/s + 이/j
+SSMY05	생기/V + 어/e
+SSMY05	있/V + 다/e
+SSMY06	숙종대왕/N
+SSMY06	즉위/N
+SSMY06	초/N + 에/j
+SSMY06	시화연풍/N + 하/t + 고/e
+SSMY06	국태민안인□□/N
+SSMY06	충신/N + 은/j
+SSMY06	만조정/N + 이/c + 요/e
+SSMY06	효자/N
+SSMY06	열녀/N
+SSMY06	가가재/N + 이/c + 라/e
+SSMY07	숙종대왕/N
+SSMY07	즉위/N
+SSMY07	초/N + 에/j
+SSMY07	성덕/N + 이/j
+SSMY07	넙/V + 으시/f + 으사/e
+SSMY07	성자성손/N + 은/j
+SSMY07	계계승승/N + 하/t + 으사/e
+SSMY07	금고옥촉/N + 은/j
+SSMY07	요순시절/N + 이/c + 요/e
+SSMY07	의관문물/N + 은/j
+SSMY07	우탕/N + 의/j
+SSMY07	버금/N + 이/c + 으라/e
+SSMY07	좌우보필/N + 은/j
+SSMY07	주석지신/N + 이/c + 요/e
+SSMY07	용양호위/N + 은/j
+SSMY07	간성지장/N + 이/c + 으라/e
+SSMY07	조정/N + 에/j
+SSMY07	흐르/V + 는/e
+SSMY07	덕화/N
+SSMY07	향곡/N + 에/j
+SSMY07	피/V + 었/f + 으니/e
+SSMY07	사해/N
+SSMY07	굳/V + 은/e
+SSMY07	기운/N + 이/j
+SSMY07	원근/N + 에/j
+SSMY07	어리/V + 어/e
+SSMY07	있/V + 다/e
+SSMY07	충신/N + 은/j
+SSMY07	만조/N + 하/t + 고/e
+SSMY07	효자/N
+SSMY07	열녀/N
+SSMY07	가가재/N + 이/c + 라/e
+SSMY07	미재미재/N + 이/c + 라/e
+SSMY07	우순풍조/N + 하/t + 니/e
+SSMY07	함포고복/N
+SSMY07	백성/N + 들/s + 은/j
+SSMY07	처처/N + 에/j
+SSMY07	격양가/N + 이/c + 라/e
+SKRU01	숙종대왕/N
+SKRU01	즉위/N
+SKRU01	초/N + 에/j
+SKRU01	국태민□□□/N
+SKRU01	시화세풍/N + 하/t + 어/e
+SKRU01	□신/N + 은/j
+SKRU01	만□□/N + 이/c + 요/e
+SKRU01	효자/N
+SKRU01	여녀/N
+SKRU01	가가재/N + 이/c + 라/e
+SKRU02	상원/N
+SKRU02	갑자/N
+SKRU02	말/V + 을/e
+SKRU02	중원/N
+SKRU02	갑자/N
+SKRU02	초/N + 에/j
+SKRU02	숙종대왕/N
+SKRU02	즉위/N
+SKRU02	초/N + 에/j
+SKRU02	국태민안/N
+SKRU02	세화세풍/N + 하/t + 은데/e
+SKRU02	요지일월/N
+SKRU02	순지건곤/N + 이/c + 으라/e
+SKRU02	충신/N + 은/j
+SKRU02	만조정/N + 이/c + 요/e
+SKRU02	효자/N
+SKRU02	열녀/N + 은/j
+SKRU02	가가재/N + 이/c + 라/e
+SKRU03	이때/N + 은/j
+SKRU03	어느/D
+SKRU03	때/N + 이/c + 뇨/e
+SKRU03	춘삼월/N
+SKRU03	호시절/N + 이/c + 으라/e
+SKRU03	태평건곤/N + 에/j
+SKRU03	풍광/N + 이/j
+SKRU03	늦/V + 었/f + 으니/e
+SKRU03	녹수번음앵세계/N + 이/c + 요/e
+SKRU03	낙화유수금강변/N + 이/c + 으라/e
+SKRU03	호남/N + 이/j
+SKRU03	예/N + 으로부터/j
+SKRU03	춘풍물색/N + 이/j
+SKRU03	일세/N + 에/j
+SKRU03	으뜸/N + 이/c + 으라/e
+SCNU01	숙종대왕/N
+SCNU01	즉위/N
+SCNU01	초/N + 에/j
+SCNU01	국태민안/N + 하/t + 고/e
+SCNU01	시화연풍/N + 이/c + 으라/e
+SCNU01	요천지/N
+SCNU01	순일월/N + 이/c + 니/e
+SCNU01	태평천지/N
+SCNU01	이/D
+SCNU01	아니/V + 은가/e
+SCNU01	강구/N + 에/j
+SCNU01	저/D
+SCNU01	노인/N + 은/j
+SCNU01	제/N + 의/j
+SCNU01	힘/N + 을/j
+SCNU01	모르/V + 었/f + 구나/e
+SCNU02	화설/N
+SCNU02	아국/N
+SCNU02	숙종조/N
+SCNU02	시절/N + 에/j
+SKNL	숙종대왕/N
+SKNL	즉위/N
+SKNL	초/N + 에/j
+SKNL	성덕/N + 이/j
+SKNL	넙/V + 으시/f + 으사/e
+SKNL	성자성손/N + 은/j
+SKNL	계계승승/N + 하/t + 으사/e
+SKNL	금고옥촉/N + 은/j
+SKNL	요순시절/N + 이/c + 요/e
+SKNL	의관문물/N + 은/j
+SKNL	우탕/N + 의/j
+SKNL	버금/N + 이/c + 으라/e
+SKNL	좌우보필/N + 은/j
+SKNL	주석지신/N + 이/c + 요/e
+SKNL	용양호위/N + 은/j
+SKNL	간성지장/N + 이/c + 으라/e
+SKNL	조정/N + 에/j
+SKNL	흐르/V + 는/e
+SKNL	덕화/N
+SKNL	향곡/N + 에/j
+SKNL	피/V + 어/e
+SKNL	있/V + 고/e
+SKNL	사해/N + 에/j
+SKNL	굳/V + 은/e
+SKNL	기운/N
+SKNL	원근/N + 에/j
+SKNL	어리/V + 었/f + 다/e
+SKNL	충신/N + 은/j
+SKNL	만조정/N + 이/c + 요/e
+SKNL	효자/N
+SKNL	열녀/N
+SKNL	가가재/N + 이/c + 라/e
+SKNL	미재미재/N + 이여/j
+SKNL	우순풍조/N + 하/t + 니/e
+SKNL	일대건곤성명세/N + 이/c + 라/e
+SYQL01	숙종대왕/N
+SYQL01	즉위/N
+SYQL01	초/N + 에/j
+SYQL01	시화연풍/N + 하/t + 고/e
+SYQL01	백성/N + 이/j
+SYQL01	편안/N + 하/t + 어/e
+SYQL01	국태민안/N + 하/t + 니/e
+SYQL01	격양가/N + 을/j
+SYQL01	일삼/V + 더라/e
+SCJM	숙종대왕/N
+SCJM	즉위/N
+SCJM	초/N + 에/j
+SCJM	성덕/N + 이/j
+SCJM	넙/V + 으시/f + 으사/e
+SCJM	성자신손/N + 이/j
+SCJM	계계승승/N + 하/t + 으사/e
+SCJM	금고옥촉/N + 은/j
+SCJM	요순시절/N + 이/c + 요/e
+SCJM	의관문물/N + 은/j
+SCJM	우탕/N + 의/j
+SCJM	버금/N + 이/c + 으라/e
+SCJM	좌우보필/N + 은/j
+SCJM	주석지신/N + 이/c + 요/e
+SCJM	용양호위/N + 은/j
+SCJM	간성지장/N + 이/c + 으라/e
+SCJM	조정/N + 에/j
+SCJM	흐르/V + 는/e
+SCJM	덕화/N
+SCJM	향곡/N + 에/j
+SCJM	피/V + 어/e
+SCJM	있/V + 고/e
+SCJM	사해/N + 에/j
+SCJM	굳/V + 은/e
+SCJM	기운/N
+SCJM	원근/N + 에/j
+SCJM	피/V + 어/e
+SCJM	있/V + 다/e
+SCJM	충신/N + 은/j
+SCJM	만조정/N + 이/c + 요/e
+SCJM	효자/N
+SCJM	열녀/N
+SCJM	가가재/N + 이/c + 라/e
+SCJM	미재미재/N + 이여/j
+SCJM	우순풍조/N + 하/t + 니/e
+SCJM	일대건곤성명세/N + 이/c + 라/e
+SKSU	숙종대왕/N
+SKSU	즉위/N
+SKSU	초/N + 에/j
+SKSU	시화연풍/N + 하/t + 고/e
+SKSU	국태민안/N + 이/c + 으라/e
+SKSU	충신/N + 은/j
+SKSU	만조정/N + 이/c + 요/e
+SKSU	효자/N
+SKSU	열녀/N
+SKSU	가가재/N + 이/c + 라/e
+SISL	숙종대왕/N
+SISL	즉위/N
+SISL	초/N + 에/j
+SISL	시화세풍/N + 하/t + 고/e
+SISL	국태민안/N
+SISL	시절□□/N
+SISL	요지일월/N
+SISL	순지건곤/N
+SISL	강구연월/N + 이/j
+SISL	수역/N + 에/j
+SISL	빗기/V + 어/e
+SISL	있/V + 고/e
+SKJY01	숙종대왕/N
+SKJY01	즉위/N
+SKJY01	초/N + 에/j
+SKJY01	시화연풍/N + 하/t + 고/e
+SKJY01	국태민안/N + 하/t + 어/e
+SKJY01	충신/N
+SKJY01	만조정/N + 이/c + 요/e
+SKJY01	열녀/N + 은/j
+SKJY01	가가재/N + 이/c + 라/e
+SKJY02	숙종대왕/N
+SKJY02	즉위/N
+SKJY02	초/N + 에/j
+SKJY02	국태민안/N + 하/t + 고/e
+SKJY02	가급인족/N + 이/c + 으라/e
+SKJY02	충신/N + 은/j
+SKJY02	만조정/N + 이/c + 요/e
+SKJY02	여염/N + 의/j
+SKJY02	열녀/N + 이/c + 로다/e
+SKJY02	요지일월/N + 이/c + 요/e
+SKJY02	순지건곤/N + 이/c + 으라/e
+SKJY02	태평천하/N
+SKJY02	이/D
+SKJY02	아니/V + 은가/e
+SKJY02	강구/N + 에/j
+SKJY02	저/D
+SKJY02	노인/N + 은/j
+SKJY02	제/N + 의/j
+SKJY02	힘/N + 을/j
+SKJY02	모르/V + 았/f + 도다/e
+SLMS	숙종대왕/N
+SLMS	즉위/N
+SLMS	초/N + 의/j
+SLMS	충신/N + 은/j
+SLMS	만조정/N + 이/c + 요/e
+SLMS	효자/N + 은/j
+SLMS	열녀/N
+SLMS	가가재/N + 이/c + 라/e
+SLMS	국태민안/N + 하/t + 고/e
+SLMS	가급인족/N + 하/t + 어/e
+SLMS	강구연월/N + 에/j
+SLMS	격양가/N + 으로/j
+SLMS	화답/N + 하/t + 니/e
+SLMS	요지일월/N + 이/c + 요/e
+SLMS	순지건곤/N + 이/c + 으라/e
+SLMS	태평성대/N
+SLMS	좋/V + 을시고/e
+SKDU10	숙종대왕/N
+SKDU10	즉위/N
+SKDU10	초/N + 에/j
+SKDU10	국태민안/N + 이/c + 요/e
+SKDU10	가급인족/N + 이/c + 으라/e
+SKDU10	충신/N + 은/j
+SKDU10	만조정/N + 이/c + 요/e
+SKDU10	효자/N
+SKDU10	열녀/N
+SKDU10	가가재/N + 이/c + 라/e
+SKDU10	요천지/N
+SKDU10	순일월/N + 이/j
+SKDU10	태평천하/N
+SKDU10	그/D
+SKDU10	아니/V + 은가/e
+SSHK	숙종대왕/N
+SSHK	즉위/N
+SSHK	초/N + 에/j
+SSHK	세화연풍/N + 하/t + 고/e
+SSHK	국태민안/N + 하/t + 은데/e
+SSHK	충신/N + 은/j
+SSHK	만조정/N + 이/c + 요/e
+SSHK	열읍/N + 에/j
+SSHK	열녀/N + 이/c + 로다/e
+SSHK	요지일월/N + 이/c + 요/e
+SSHK	순지건곤/N + 이/c + 으라/e
+SSHK	태평천지/N
+SSHK	이/D
+SSHK	아니/V + 은가/e
+SHYP02	중원/N
+SHYP02	갑자/N
+SHYP02	을축/N
+SHYP02	연간/N + 에/j
+SKJC01	숙종대왕/N
+SKJC01	즉위/N
+SKJC01	초/N + 에/j
+SKJC01	시화연풍/N + 하/t + 고/e
+SKJC01	국태민안/N + 하/t + 어/e
+SKJC01	만물/N + 이/j
+SKJC01	번성/N + 하/t + 고/e
+SKJC01	백성/N + 이/j
+SKJC01	희희/N + 하/t + 어/e
+SKJC01	충신/N + 은/j
+SKJC01	만조정/N + 이/c + 요/e
+SKJC01	여염/N + 에/j
+SKJC01	열녀/N + 이/c + 로다/e
+SKJC02	숙종대왕/N
+SKJC02	즉위/N
+SKJC02	초/N + 에/j
+SKJC02	국태민안/N + 하/t + 고/e
+SKJC02	시화연풍/N + 하/t + 은데/e
+SKJC02	충신/N + 은/j
+SKJC02	만조정/N + 하/t + 고/e
+SKJC02	여염/N + 에/j
+SKJC02	효열/N + 이/j
+SKJC02	만하/V + 겠/f + 다/e
+SKJC02	요천지/N
+SKJC02	순일월/N + 에/j
+SKJC02	태평연월/N
+SKJC02	이/D
+SKJC02	아니야/L
+SKJC02	강구/N + 에/j
+SKJC02	저/D
+SKJC02	노인/N
+SKJC02	제/N + 의/j
+SKJC02	힘/N + 을/j
+SKJC02	모르/V + 았/f + 도다/e
+SKJC03	숙종대왕/N
+SKJC03	즉위/N
+SKJC03	초/N + 에/j
+SKJC03	성군/N + 의/j
+SKJC03	어질/V + 은/e
+SKJC03	덕화/N
+SKJC03	사해/N + 에/j
+SKJC03	포일/N + 하/t + 어/e
+SKJC03	요지일월/N + 이/c + 요/e
+SKJC03	순지건곤/N + 이/c + 으라/e
+SKJC03	강구연월/N
+SKJC03	좋/V + 은/e
+SKJC03	시절/N
+SKJC03	태평기상/N
+SKJC03	그리/V + 어/e
+SKJC03	있/V + 고/e
+SKJC03	이때/N
+SKJC03	일천지하/N
+SKJC03	초목금수/N
+SKJC03	제력/N + 이/c + 은들/e
+SKJC03	없/V + 을쏘냐/e
+SKJC03	조정/N + 에/j
+SKJC03	충신/N + 이/c + 요/e
+SKJC03	열읍/N + 에/j
+SKJC03	열녀/N + 이/c + 로다/e
+SKIK	숙종대왕/N
+SKIK	즉취/N
+SKIK	초/N + 에/j
+SKIK	시화연풍/N + 하/t + 고/e
+SKIK	국태민안/N + 하/t + 어/e
+SKIK	만물/N + 이/j
+SKIK	번성/N + 하/t + 고/e
+SKIK	백성/N + 이/j
+SKIK	효도/N + 하/t + 어/e
+SKIK	충신/N + 은/j
+SKIK	만조정/N + 이/c + 요/e
+SKIK	여염/N + 에/j
+SKIK	열녀/N + 이/c + 로다/e
+SKYC	숙종대왕/N
+SKYC	즉취/N
+SKYC	초/N + 에/j
+SKYC	시화연풍/N + 하/t + 고/e
+SKYC	국태민안/N + 하/t + 어/e
+SKYC	만물/N + 이/j
+SKYC	번성/N + 하/t + 고/e
+SKYC	백성/N + 이/j
+SKYC	효도/N + 하/t + 어/e
+SKYC	충신/N + 은/j
+SKYC	만조정/N + 이/c + 요/e
+SKYC	여염/N + 에/j
+SKYC	열녀/N + 이/c + 로다/e
+PBKS	절대가인/N
+PBKS	생기/V + 을/e
+PBKS	적/N + 에/j
+PBKS	강산정기/N
+PBKS	타/V + 어서/e
+PBKS	나/V + 는다/e
+PBKS	저라산하/N
+PBKS	약야계/N + 에/j
+PBKS	서시/N + 이/j
+PBKS	종출/N + 하/t + 고/e
+PBKS	군산만학부형문/N + 에/j
+PBKS	왕소군/N + 이/j
+PBKS	생장/N + 하/t + 고/e
+PBKS	쌍각산/N + 이/j
+PBKS	수려/N + 하/t + 어/e
+PBKS	녹주/N + 이/j
+PBKS	생기/V + 었/f + 으며/e
+PBKS	금강활이아미수/N + 에/j
+PBKS	설도/N + 문군/N
+PBKS	환출/N + 이/c + 으라/e
+PBKS	호남좌도/N
+PBKS	남원부/N + 은/j
+PBKS	동/N + 으로/j
+PBKS	지리산/N
+PBKS	서/N + 으로/j
+PBKS	적성강/N
+PBKS	산수정신/N
+PBKS	어리/V + 어서/e
+PBKS	춘향/N + 이/s + 이/j
+PBKS	생기/V + 어/e
+PBKS	있/V + 다/e
+SSKS	이때/N + 은/j
+SSKS	어느/D
+SSKS	때/N + 이/c + 뇨/e
+SSKS	춘삼월/N
+SSKS	호시절/N + 이/c + 으라/e
+SSKS	태평건곤/N + 에/j
+SSKS	풍광/N + 이/j
+SSKS	늦/V + 었/f + 으니/e
+SSKS	녹수번음앵세계/N + 이/c + 요/e
+SSKS	낙화유수금강변/N + 이/c + 으라/e
+SSKS	호남/N + 이/j
+SSKS	예/N + 으로부터/j
+SSKS	춘풍물색/N + 이/j
+SSKS	일세/N + 에/j
+SSKS	으뜸/N + 이/c + 으라/e
+PJSS	태극/N + 이/j
+PJSS	조판/N + 하/t + 어/e
+PJSS	음양/N + 이/j
+PJSS	나뉘/V + 은/e
+PJSS	후/N
+PJSS	일월성신/N
+PJSS	벌이/V + 었/f + 으니/e
+PJSS	동서남북/N
+PJSS	되/V + 었/f + 으며/e
+PJSS	풍우한서/N
+PJSS	왕래/N + 하/t + 니/e
+PJSS	영허소장뿐/N + 이/c + 로다/e
+PJSS	분수령/N
+PJSS	내리/V + 은/e
+PJSS	줄기/N
+PJSS	도봉/N + 이/j
+PJSS	되/V + 어/e
+PJSS	있/V + 고/e
+PJSS	연봉첩장/N + 이/j
+PJSS	기복위리/N
+PJSS	내려오/V + 어서/e
+PJSS	삼각산/N + 이/j
+PJSS	되/V + 어/e
+PJSS	있/V + 다/e
+PJSS	삼각산/N
+PJSS	주산/N
+PJSS	되/V + 고/e
+PJSS	종남산/N + 이/j
+PJSS	앞/N + 에/j
+PJSS	있/V + 다/e
+PJSS	왕십리/N + 은/j
+PJSS	청룡이오/N
+PJSS	만리현/N + 이/j
+PJSS	백호/N + 이/c + 로다/e
+PJSS	한강수/N + 은/j
+PJSS	조수/N
+PJSS	되/V + 고/e
+PJSS	동작/N + 이/j
+PJSS	수구/N
+PJSS	막/V + 어/e
+PJSS	한양/N + 성/s + 이/j
+PJSS	되/V + 어/e
+PJSS	있/V + 다/e
+PJSS	산천/N + 이/j
+PJSS	수려/N + 하/t + 고/e
+PJSS	인물/N + 이/j
+PJSS	번화/N + 하/t + 니/e
+PJSS	재자가인/N
+PJSS	종촐토/N + 이/c + 다/e
+PJSS	차시/N
+PJSS	국태민안/N + 하/t + 고/e
+PJSS	가급인족/N + 하/t + 니/e
+PJSS	충신/N + 은/j
+PJSS	만조정/N + 이/c + 요/e
+PJSS	효자/N
+PJSS	열녀/N
+PJSS	가가재/N + 이/c + 라/e
+PJSS	요지건곤/N + 에/j
+PJSS	순지일월/N + 이/c + 으라/e
+PJSS	남풍지훈혜/N + 이여/j
+PJSS	강구/N + 에/j
+PJSS	격양가/N + 이/c + 라/e
+PDCS	세상만물/N
+PDCS	점지/N + 하/t + 을/e
+PDCS	제/N
+PDCS	절대가인/N
+PDCS	없/V + 을쏘냐/e
+PDCS	절대가인/N
+PDCS	생겨나/V + 을/e
+PDCS	제/N
+PDCS	열녀/N
+PDCS	충신/N
+PDCS	없/V + 을쏘냐/e
+PDCS	열녀/N
+PDCS	충신/N
+PDCS	생겨나/V + 을/e
+PDCS	제/N
+PDCS	강산정기/N
+PDCS	타/V + 고/e
+PDCS	나/V + 는다/e
+PDCS	호남좌도/N
+PDCS	남원부/N + 은/j
+PDCS	동/N + 으로/j
+PDCS	지리산/N
+PDCS	서/N + 으로/j
+PDCS	적성강/N
+PDCS	산천정기/N
+PDCS	어리/V + 어서/e
+PDCS	춘향/N + 이/s + 이/j
+PDCS	생기/V + 어/e
+PDCS	나/V + 었/f + 다/e
+PCMS	구한국시대/N + 이/c + 올시다/e
+PCMS	숙종대왕/N
+PCMS	즉위/N
+PCMS	초/N + 에/j
+PCMS	시화세풍/N + 하/t + 고/e
+PCMS	국태민안/N + 하/t + 어/e
+PCMS	조정/N + 에/j
+PCMS	충신/N + 이/c + 요/e
+PCMS	여염/N + 의/j
+PCMS	열녀/N + 이/c + 로다/e
+PCMS	삼각산/N
+PCMS	제일봉/N + 에/j
+PCMS	봉황/N + 이/j
+PCMS	앉/V + 어서/e
+PCMS	울음/N
+PCMS	울/V + 고/e
+PCMS	한강수/N
+PCMS	깊/V + 은/e
+PCMS	물/N + 에/j
+PCMS	하도낙서/N
+PCMS	나/V + 었/f + 단/e
+PCMS	말가/N
+PCMS	강구연월/N
+PCMS	격양가/N + 에/j
+PCMS	문동요/N + 도/j
+PCMS	하/V + 으려니와/e
+PCMS	백공상화/N
+PCMS	경상가/N + 을/j
+PCMS	오늘/N + 이야/j
+PCMS	알/V + 으리로다/e
+PCMS	사방/N + 이/j
+PCMS	풍등/N + 하/t + 니/e
+PCMS	경운경성/N + 이/j
+PCMS	일어나/V + 고/e
+PCMS	혜풍/N + 화창/N + 하/t + 온/e
+PCMS	날/N + 에/j
+PCMS	도처/N + 에/j
+PCMS	풍악/N + 이/c + 으라/e
+PCMS	장안호걸/N
+PCMS	벗님네/N + 아/j
+PCMS	놀/V + 고/e
+PCMS	놀/V + 고/e
+PCMS	놀/V + 어/e + 보/W + 세/e
+PCMS	이렇/V + 듯이/e
+PCMS	좋/V + 은/e
+PCMS	때/N + 에/j
+PCMS	아니/B
+PCMS	노/N + 이/c + 든/e
+PCMS	못하/V + 으리라/e
+PCMS	극사/N + 이/c + 은간/e
+PCMS	저물/V + 은/e
+PCMS	날/N + 에/j
+PCMS	소년행락/N + 이/j
+PCMS	몇/N + 이/c + 런고/e
+PHDS02	조선/N
+PHDS02	숙종대왕/N
+PHDS02	시절/N + 에/j
+PDSS	절대가인/N
+PDSS	생겨나/V + 을/e
+PDSS	제/N
+PDSS	강산정기/N
+PDSS	타/V + 어서/e
+PDSS	나/V + 는다/e
+PDSS	저라산하/N
+PDSS	약야계/N + 에/j
+PDSS	서시/N + 이/j
+PDSS	종출/N + 하/t + 고/e
+PDSS	군산만학부형문/N + 에/j
+PDSS	왕소군/N + 이/j
+PDSS	생장/N + 하/t + 고/e
+PDSS	쌍각산/N + 이/j
+PDSS	수려/N + 하/t + 어/e
+PDSS	녹주/N + 이/j
+PDSS	생기/V + 었/f + 으며/e
+PDSS	금강활이아미수/N + 에/j
+PDSS	설도/N + 문군/N
+PDSS	환출/N + 이/c + 으라/e
+PDSS	호남좌도/N
+PDSS	남원부/N + 은/j
+PDSS	동/N + 으로/j
+PDSS	지리산/N
+PDSS	서/N + 으로/j
+PDSS	적성강/N
+PDSS	산수정신/N
+PDSS	어리/V + 어서/e
+PDSS	춘향/N + 이/s + 이/j
+PDSS	생기/V + 어/e
+PDSS	있/V + 다/e
+PSCS	잔홍/N + 이/j
+PSCS	만점/N + 이/c + 요/e
+PSCS	양류/N + 이/j
+PSCS	천사/N + 이/c + 로다/e
+PSCS	소슬히/B
+PSCS	불/V + 는/e
+PSCS	바람/N
+PSCS	화풍/N + 이/j
+PSCS	완연쿠/N + 이/c + 나/e
+PSCS	교룡산/N
+PSCS	넘/V + 는/e
+PSCS	광풍/N
+PSCS	적성강/N + 에/j
+PSCS	불어/N
+PSCS	있/V + 고/e
+PSCS	오작교/N
+PSCS	영주각/N + 엔/j
+PSCS	범나비/N
+PSCS	춤/N + 을/j
+PSCS	추/V + 는다/e
+PSCS	전라좌도/N
+PSCS	남원부/N + 은/j
+PSCS	호남/N + 의/j
+PSCS	승지/N + 이/c + 라/e
+PSCS	동/N + 으로/j
+PSCS	지리산/N
+PSCS	북/N + 으로/j
+PSCS	교룡산/N
+PSCS	솟/V + 어/e
+PSCS	있/V + 고/e
+PSCS	남문/N
+PSCS	밖/N + 에/j
+PSCS	광한루/N + 과/j
+PSCS	그/D
+PSCS	앞/N + 에/j
+PSCS	오작교/N
+PSCS	영주각/N + 은/j
+PSCS	삼남/N
+PSCS	제일승지/N + 으로/j
+PSCS	자고로/B
+PSCS	이름/N
+PSCS	높/V + 다/e
+PSCS	강산정기/N + 이/j
+PSCS	어리/V + 어서/e
+PSCS	절대가인/N + 이/j
+PSCS	생기/V + 었/f + 으니/e
+PSCS	만고열녀/N
+PSCS	성춘향/N + 이/c + 으라/e
